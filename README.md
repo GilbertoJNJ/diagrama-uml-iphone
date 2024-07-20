@@ -6,4 +6,4 @@ O arquivo foi escrito utilizando a sintaxe PlantUML.
 - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) - VSCode
 
 ## Imagem
-![Imagem do diagrama](src/imagem/diagramaUML.png)
+![Imagem do diagrama](diagramaUML.png)
